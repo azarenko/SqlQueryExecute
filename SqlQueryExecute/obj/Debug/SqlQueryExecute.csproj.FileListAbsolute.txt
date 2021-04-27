@@ -1,0 +1,5 @@
+C:\projects\SqlQueryExecute\SqlQueryExecute\bin\Debug\SqlQueryExecute.exe
+C:\projects\SqlQueryExecute\SqlQueryExecute\bin\Debug\SqlQueryExecute.pdb
+C:\projects\SqlQueryExecute\SqlQueryExecute\obj\Debug\SqlQueryExecute.csproj.CoreCompileInputs.cache
+C:\projects\SqlQueryExecute\SqlQueryExecute\obj\Debug\SqlQueryExecute.exe
+C:\projects\SqlQueryExecute\SqlQueryExecute\obj\Debug\SqlQueryExecute.pdb
